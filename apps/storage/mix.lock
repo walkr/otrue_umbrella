@@ -1,0 +1,4 @@
+%{
+  "rox": {:git, "https://github.com/walkr/rox", "0c032cad87a7e034486cc7b4b47ac88ae3709ae1", []},
+  "rustler": {:git, "https://github.com/hansihe/rustler", "b6578ea3999fd42f377c2497d8fae0bd629b927d", [ref: "b6578ea3", sparse: "rustler_mix"]},
+}
